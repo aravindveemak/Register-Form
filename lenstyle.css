@@ -1,0 +1,42 @@
+body{
+    background-color:grey;
+    text-align: center;
+    margin-top: 6cm;
+    
+
+}
+    h1 {
+    margin-bottom: 1cm;
+    color: aqua;
+}
+input{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+button{
+    margin-top: 1cm;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+
+#wrapper{
+    background-color:beige;
+    height: 9cm;
+    width: 400px;
+    margin: auto;
+    
+}
+
+#id{
+    background-color: black;
+}
+
+
+select{
+    padding: 10px;
+    
+}

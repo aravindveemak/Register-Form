@@ -1,0 +1,27 @@
+
+.container{
+    display: flex;
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+}
+
+.para1{
+    background-color: aqua;
+    
+
+}
+
+
+.para2{
+    background-color: blueviolet;
+
+}
+
+
+.para3{
+    background-color: aquamarine;
+
+}

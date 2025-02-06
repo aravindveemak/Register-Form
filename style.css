@@ -1,0 +1,84 @@
+
+body{
+    background: url(Netflix\ Indian\ Movies\ and\ Web\ Series.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+.logiform{
+    width: 300px;
+    border-top-right-radius: 10px;
+    margin: 250px auto;
+    padding: 10px 20px 30px;
+    background-color:  rgba(0, 0, 0, 0.788);
+    color: white;
+    font: 30px;
+    border-radius: 10px;
+    height: 13cm;
+
+}
+.logiform h1{
+    text-align: center;
+    color:white
+}
+.logiform input{
+    display: block;
+}
+
+.input input{
+    width: 90%;
+    font: 1em;
+    border: 1px solid gray;
+    box-shadow: 2px;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin: 5px 0px  15px;
+}
+ input:focus{
+    background-color: darkslategray;
+
+ 
+}
+
+  
+  
+  .ratio input{
+    margin-left: 0pc;
+  }
+  
+
+  
+ .btn{
+  text-align: center;
+ }
+  button{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    padding: 10px 10px;
+    border-radius: 10px;
+
+  }
+   .text>p{
+     margin-top: 55px;
+     font-size: small;
+   }
+
+  .ratio label{
+    margin: 100px;
+
+    
+  }
+  .checkbox{
+    margin-top: 50px;
+  }
+
+  .second{
+    text-align: center;
+    margin-top: 19px;
+  }
+   .fit{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+   }
